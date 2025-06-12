@@ -1,6 +1,8 @@
 I created this so that we could nuke other enemy files or organizations in RP.  
 I created this for freedom from schools and that's why'll you'll have to learn all of this.  
 This is an important script which unblockes blocked websites 😉....  
+
+Basically I'm trying to create the strongest organization ever please join
 FYI, You're administrator's COOKED  
 PLZZ JOIN
 # OPFA
@@ -98,6 +100,11 @@ __TITLES__:
 * Firewall Paladin - Acess/destry firewalls
 * VPN Vader - Create a server with working VPNS
 * Exploit Engineer - find/make exploits to sidrupt enemy lines
+* Architecte - Build software in general like proxies
+* Google Doc EXploiter - Exploits, steals and destroys google doc
+* The Achitecte[RARE title] - Creates the trojan horse malware on test softwares, COINTELPRO for ethical hacking
+* trallalero trala tung tung sahur - Meme abuser
+* **God tier title:** Bypass Classpolicy
 
 # Roadmaps for each field
 You will have to learn coding languages and spend atlest 1-2 hours on your fields working on.  
@@ -106,19 +113,10 @@ For recruits you will be learning coding languages and fields like Cybersecurity
 It's going to be alot of work but we need it, this is not just an RP.
 
 I created this so that we could nuke other enemy files or organizations in RP.  
-I created this for freedom from schools and that's why'll you'll have to learn all of this.
-
-
-#COINTELBRO
-As a Member of the COINTELPRO, you will have to find security flaws from the enemy lines.  
-You will have to hijack there system. You will have to be a spy on them.
-You are our primary offense of the OPFA.  
-
-**What you will have to learn?**  
+I created this for freedom from schools.
 
 
 #
-
 THESE are the organizations in the OPFA. They are the key to keep this running.
 
 This is just a small part of what the ___OPFA___ is achieving.
