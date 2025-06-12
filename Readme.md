@@ -108,11 +108,6 @@ It's going to be alot of work but we need it, this is not just an RP.
 I created this so that we could nuke other enemy files or organizations in RP.  
 I created this for freedom from schools and that's why'll you'll have to learn all of this.
 
-__This is what the recruits will learn in each specific field__
-
-___COINTELPRO___
-* 
-
 
 
 #
