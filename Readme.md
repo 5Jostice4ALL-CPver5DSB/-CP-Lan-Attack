@@ -67,7 +67,7 @@ Next passwords and security measures will be changed.
 COINTELPRO will keep track of the personel thorugh their spies.  
 The person's info will not be deleted from the database but will be moved.
 
-To ensure secrecy, every member who joins will be given a code number. EX: [Department][Player's designated number]
+To ensure secrecy, every member who joins will be given a code number. EX: [Department][Rank][Player's designated number]
 Only the 05 council will know who the person is and their code number.
 
 # Civilians  
