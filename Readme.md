@@ -70,6 +70,10 @@ The person's info will not be deleted from the database but will be moved.
 To ensure secrecy, every member who joins will be given a code number. EX: [Department][Player's designated number]
 Only the 05 council will know who the person is and their code number.
 
+# Civilians  
+As a civilian you still need to join via the job application.  
+As a civilian you're job is too persuade other people to join.  
+Frequently civilians will be shared files which can bypass or have it's perks.
 
 # RANKS
 Here are the ranks. Higher the rank, the more perks and awards you will get.
