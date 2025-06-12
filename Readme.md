@@ -1,3 +1,5 @@
+I created this so that we could nuke other enemy files or organizations in RP.  
+I created this for freedom from schools and that's why'll you'll have to learn all of this.  
 This is an important script which unblockes blocked websites 😉....  
 FYI, You're administrator's COOKED  
 
@@ -54,8 +56,8 @@ Not only that but they are responsible for any snitches or spies in this organiz
 # Job applicants central head commisioning office
 If you want to join we have a job applications server in this repository.  
 Each recruit will be assigned 3 missions based on their background knowledge.
-If all 3 missions are successfully done, then the recruit can skip the training.
-Then they go on to actual missions.
+If all 3 missions are successfully passed, then the recruit can skip the training.
+Then they go on to actual missions. These recruits are called Recruits+
 If not then new recruits will be given training course based on what field they want.
 
 Any personnel who would want to leave would be checked thoroughly by the PSKS HCD.  
@@ -96,6 +98,21 @@ __TITLES__:
 * Firewall Paladin - Acess/destry firewalls
 * VPN Vader - Create a server with working VPNS
 * Exploit Engineer - find/make exploits to sidrupt enemy lines
+
+# Roadmaps for each field
+You will have to learn coding languages and spend atlest 1-2 hours on your fields working on.  
+For ranks higher than recruits you will spend that much time on your missions.
+For recruits you will be learning coding languages and fields like Cybersecurity for COINTELPRO.  
+It's going to be alot of work but we need it, this is not just an RP.
+
+I created this so that we could nuke other enemy files or organizations in RP.  
+I created this for freedom from schools and that's why'll you'll have to learn all of this.
+
+__This is what the recruits will learn in each specific field__
+
+___COINTELPRO___
+* 
+
 
 
 #
