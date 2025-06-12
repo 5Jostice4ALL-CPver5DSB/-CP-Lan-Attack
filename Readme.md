@@ -29,7 +29,7 @@ Delta+, Gamma+, NineTailedFox+ all are different teams.
 * Delta+ being the second Highest rank in the field
 * NineTailedFox+ being the highest in the field.
 
-# Task Force: DELTA, GAMMA, NineTailedFOX 
+# Task Force Society: DELTA, GAMMA, NineTailedFOX 
 Organization which helps develop websites.  
 The key different from this and F/B EDS is that it works more on sites while F/B EDS work on defense
 
