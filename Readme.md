@@ -53,7 +53,19 @@ Not only that but they are responsible for any snitches or spies in this organiz
 
 # Job applicants central head commisioning office
 If you want to join we have a job applications server in this repository.  
-This is very serious.
+Each recruit will be assigned 3 missions based on their background knowledge.
+If all 3 missions are successfully done, then the recruit can skip the training.
+Then they go on to actual missions.
+If not then new recruits will be given training course based on what field they want.
+
+Any personnel who would want to leave would be checked thoroughly by the PSKS HCD.  
+Next passwords and security measures will be changed.  
+COINTELPRO will keep track of the personel thorugh their spies.  
+The person's info will not be deleted from the database but will be moved.
+
+To ensure secrecy, every member who joins will be given a code number. EX: [Department][Player's designated number]
+Only the 05 council will know who the person is and their code number.
+
 
 # RANKS
 Here are the ranks. Higher the rank, the more perks and awards you will get.
