@@ -24,15 +24,19 @@ the FEDS and the BEDS Societies program attacks and patches. They solve patches 
 They are the main developers of the files and our primary defense. 
 FEDS works on front end development and for BEDS vice versa
 
+# MTF's, Tsk, PHP, FL
+Organization which helps develop websites.  
+The key different from this and F/B EDS is that it works more on sites while F/B EDS work on defense
+
 # 05 Council
 Lastly the ***05 council*** is the organization for the most important plans.
 The 05 council consists of [REDACTED] personell and plan the most important ideas.
 They are the leading group of OPFA.  
 
+#
+
 THESE are the 4 organization in the OPFA. They are the key to keep this running.
-
 If you want to join we have a job applications server in this repository.
-
 This is just a small part of what the ___OPFA___ is achieving.
 Please visit the **OPFA Database Hub** This is where the project ideas are in
 
