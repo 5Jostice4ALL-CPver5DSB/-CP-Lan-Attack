@@ -22,8 +22,8 @@ Most secretive field of OPFA.
 
 # BEDS and FEDS Society: Delta+, Gamma+, NineTailedFox+
 The OPFA's other organization is the _FrontENF__ and __BackENF__ Development Society.  
-the FEDS and the BEDS Societies program attacks and patches. They solve patches with the help of COINTELPRO.  
-They are the main developers of the files and our primary defense. 
+the FEDS and the BEDS Societies program attacks and patches. 
+They are the main developers of the files.
 FEDS works on front end development and for BEDS vice versa  
 
 Delta+, Gamma+, NineTailedFox+ all are different teams.
@@ -32,8 +32,8 @@ Delta+, Gamma+, NineTailedFox+ all are different teams.
 * NineTailedFox+ being the highest in the field.
 
 # Task Force OPPS: DELTA, GAMMA, NineTailedFOX 
-Organization which helps develop websites.  
-The key different from this and F/B EDS is that it works more on sites while F/B EDS work on defense
+Organization which help secure websites. They are our primary defense.  
+Not only that but they solve patches with the help of COINTELPRO. 
 
 Delta, Gamma, NineTailedFox all are different teams.
 * Gamma being the lowest rank in the field
@@ -108,6 +108,13 @@ It's going to be alot of work but we need it, this is not just an RP.
 I created this so that we could nuke other enemy files or organizations in RP.  
 I created this for freedom from schools and that's why'll you'll have to learn all of this.
 
+
+#COINTELBRO
+As a Member of the COINTELPRO, you will have to find security flaws from the enemy lines.  
+You will have to hijack there system. You will have to be a spy on them.
+You are our primary offense of the OPFA.  
+
+**What you will have to learn?**  
 
 
 #
