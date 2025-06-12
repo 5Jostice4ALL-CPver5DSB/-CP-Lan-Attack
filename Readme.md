@@ -18,7 +18,7 @@ COINTELPRO hijacks and finds flaws in security measures. It is our primary offen
 The organization also protects it's people from being caught, so don't worry 😉
 Most secretive field of OPFA.
 
-# BEDS and FEDS: Delta+, Gamma+, NineTailedFox+
+# BEDS and FEDS Society: Delta+, Gamma+, NineTailedFox+
 The OPFA's other organization is the _FrontENF__ and __BackENF__ Development Society.  
 the FEDS and the BEDS Societies program attacks and patches. They solve patches with the help of COINTELPRO.  
 They are the main developers of the files and our primary defense. 
@@ -29,7 +29,7 @@ Delta+, Gamma+, NineTailedFox+ all are different teams.
 * Delta+ being the second Highest rank in the field
 * NineTailedFox+ being the highest in the field.
 
-# Task Force Society: DELTA, GAMMA, NineTailedFOX 
+# Task Force OPPS: DELTA, GAMMA, NineTailedFOX 
 Organization which helps develop websites.  
 The key different from this and F/B EDS is that it works more on sites while F/B EDS work on defense
 
@@ -83,7 +83,7 @@ __TITLES__:
 * Hacker - Hack Enemy lines and get info
 * Firewall Paladin - Acess/destry firewalls
 * VPN Vader - Create a server with working VPNS
-* Exploit Engineer - find/make exploits
+* Exploit Engineer - find/make exploits to sidrupt enemy lines
 
 
 #
