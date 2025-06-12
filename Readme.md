@@ -11,15 +11,18 @@ Many ***files*** were created for defense but the enemy was too powerful
 Due to this fact, the OPFA was created and has been hosting attacks on enemy lines  
 This organization has been running in secret to avoid detection from the Enemy now that it has captured major cities
 
+# COINTELPRO
 This script is the key to freedom from the enemy.  
 Don't worry this organization has spies, also called the **COINTELPRO**.
 COINTELPRO is a part of the OPFA and plays a major role in spying the enemy and fixing patches for offense and defense of the OPFA.  
 The organization also protects it's people from being caught, so don't worry 😉
 
+# BEDS and FEDS
 The OPFA's other organization is the _FrontENF__ and __BackENF__ Development Society.  
 the FEDS and the BEDS Societies program attacks and patches. They solve patches with the help of COINTELPRO.  
 They are the main developers of the files.
 
+# 05 Council
 Lastly the ***05 council*** is the organization for the most important plans.
 The 05 council consists of [REDACTED] personell and plan the most important ideas.
 They are the leading group of OPFA.  
