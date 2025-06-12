@@ -2,7 +2,7 @@ I created this so that we could nuke other enemy files or organizations in RP.
 I created this for freedom from schools and that's why'll you'll have to learn all of this.  
 This is an important script which unblockes blocked websites 😉....  
 FYI, You're administrator's COOKED  
-
+PLZZ JOIN
 # OPFA
 
 This script contains one of the most important data bases known to ***OPFA*** and since then has been stored safely among the enemy lines.
