@@ -1,4 +1,3 @@
-# No snitches,
 This is an important script which unblockes blocked websites 😉....  
 FYI, You're administrator's COOKED  
 
